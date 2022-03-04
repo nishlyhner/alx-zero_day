@@ -1,0 +1,3 @@
+#!/bin/bash\necho "The school is open!"> school
+cat school
+echo #!/bin/bashnecho The school is open!
